@@ -1,0 +1,1419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Tecplot",
+				"TecplotParser"
+			],
+			[
+				"Te",
+				"TecplotZones"
+			],
+			[
+				"Tecplo",
+				"TecplotZones"
+			],
+			[
+				"Tec",
+				"TecplotVars"
+			],
+			[
+				"Tecpl",
+				"TecplotVar"
+			],
+			[
+				"old",
+				"old_pts"
+			],
+			[
+				"ne",
+				"new_pts"
+			],
+			[
+				"ol",
+				"old_pts"
+			],
+			[
+				"de",
+				"def_points"
+			],
+			[
+				"fr",
+				"frame"
+			],
+			[
+				"mx",
+				"mxLoc"
+			],
+			[
+				"dia",
+				"diag_frame"
+			],
+			[
+				"cv",
+				"cvimg"
+			],
+			[
+				"mn",
+				"mnLoc"
+			],
+			[
+				"me",
+				"median_blur"
+			],
+			[
+				"cv2",
+				"cv2pil"
+			],
+			[
+				"pl",
+				"player_detection_net  (variable)"
+			],
+			[
+				"l",
+				"player_detection_net  (variable)"
+			],
+			[
+				"st",
+				"state_select_proc"
+			],
+			[
+				"ai",
+				"ai_answer  (variable)"
+			],
+			[
+				"di",
+				"diff2  (variable)"
+			],
+			[
+				"dif",
+				"diff2"
+			],
+			[
+				"diff",
+				"diff1"
+			],
+			[
+				"proc",
+				"process_count"
+			],
+			[
+				"arra",
+				"array_size"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"proce",
+				"proces_name"
+			],
+			[
+				"pro",
+				"process_count"
+			],
+			[
+				"S",
+				"SoftmaxLayer"
+			],
+			[
+				"hid",
+				"hiddenLayer3"
+			],
+			[
+				"hi",
+				"hiddenLayer2"
+			],
+			[
+				"crop",
+				"crop_rect"
+			],
+			[
+				"in",
+				"input_size"
+			],
+			[
+				"input",
+				"input_image"
+			],
+			[
+				"tra",
+				"trainer"
+			],
+			[
+				"sa",
+				"saving_on  (variable)"
+			],
+			[
+				"sav",
+				"saving_on  (variable)"
+			],
+			[
+				"fra",
+				"frames_saved"
+			],
+			[
+				"get",
+				"get_last_frame_pil  (function)"
+			],
+			[
+				"fa",
+				"frame_count  (variable)"
+			],
+			[
+				"Ca",
+				"Capturer"
+			],
+			[
+				"train",
+				"train_sets"
+			],
+			[
+				"fi",
+				"files"
+			],
+			[
+				"positi",
+				"positive_capturer"
+			],
+			[
+				"set",
+				"set_ai"
+			],
+			[
+				"net",
+				"net_input_size"
+			],
+			[
+				"re",
+				"rect"
+			],
+			[
+				"pos",
+				"positive"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"neg",
+				"neg_image"
+			],
+			[
+				"sta",
+				"start_capture"
+			],
+			[
+				"start",
+				"start_capture"
+			],
+			[
+				"stat",
+				"start"
+			],
+			[
+				"from",
+				"frombuffer"
+			],
+			[
+				"corre",
+				"corrected"
+			],
+			[
+				"add",
+				"addSample  (function)"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"co",
+				"correction"
+			],
+			[
+				"cell",
+				"cellingsize"
+			],
+			[
+				"ce",
+				"cellingtile"
+			],
+			[
+				"cel",
+				"cellingtile"
+			],
+			[
+				"c",
+				"current_frame  (variable)"
+			],
+			[
+				"wa",
+				"was_lb_pressed"
+			],
+			[
+				"corr",
+				"corrected"
+			],
+			[
+				"im",
+				"Image"
+			],
+			[
+				"File",
+				"FileCapturer"
+			],
+			[
+				"init",
+				"initEngines"
+			],
+			[
+				"ca",
+				"capturer  (variable)"
+			],
+			[
+				"ba",
+				"backend"
+			],
+			[
+				"cap",
+				"capturer_thread"
+			],
+			[
+				"star",
+				"start_capture"
+			],
+			[
+				"Capturer",
+				"CapturerThread"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "include/TecplotData.h",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/TecplotParser.h",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/TecplotZone.h",
+			"settings":
+			{
+				"buffer_size": 409,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/TecplotVar.h",
+			"settings":
+			{
+				"buffer_size": 502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/defines.h",
+			"settings":
+			{
+				"buffer_size": 215,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "buils.sh",
+			"file_size": 0,
+			"file_write_time": 1385224935000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/TecplotFile.h",
+			"settings":
+			{
+				"buffer_size": 210,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/torto/projects/tecplotlib/include/Parser.h",
+		"/home/torto/projects/tecplotlib/src/Parcer.cpp",
+		"/home/torto/projects/tecplotlib/include/Parcer.h",
+		"/home/torto/work/sem9/s/ex13b.d",
+		"/home/torto/work/sem9/h/ex13c_01.dat",
+		"/home/torto/projects/mariobot/AI/NeuralNets/PlayerDetectionNet.py",
+		"/home/torto/projects/mariobot/AI/AIManager.py",
+		"/home/torto/projects/mariobot/AI/VisualTrainer.py",
+		"/home/torto/projects/mariobot/Controll/Controller.py",
+		"/home/torto/projects/mariobot/AI/MyAI.py",
+		"/home/torto/work/sem6/ex09b.c",
+		"/home/torto/work/sem6/myprog.c",
+		"/home/torto/work/sem6/ex09a.c",
+		"/home/torto/work/sem6/Sem_06/Sem_06/ex10a.c",
+		"/home/torto/work/sem5/mynet.h",
+		"/home/torto/work/sem5/ex08b.d",
+		"/home/torto/work/sem5/mycom.h",
+		"/home/torto/work/sem5/ex08c.c",
+		"/home/torto/projects/mariobot/AI/PlayerNet.py",
+		"/home/torto/projects/mariobot/AI/NeuralNets/PlayerCoordinatesNet.py",
+		"/home/torto/projects/mariobot/main.py",
+		"/home/torto/projects/mariobot/Capture/FileCapturer.py",
+		"/home/torto/projects/mariobot/Capture/__init__.py",
+		"/home/torto/projects/mariobot/Capture/Capturer.py",
+		"/home/torto/projects/mariobot/Capture/StreamCapturer.py",
+		"/home/torto/projects/mariobot/Capture/CaptureSaver.py",
+		"/home/torto/projects/mariobot/AI/NeuralNets/__init__.py",
+		"/home/torto/projects/mariobot/AI/net.py",
+		"/home/torto/projects/mariobot/AI/NeuralNets/NeuralNet.py",
+		"/home/torto/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/torto/projects/mariobot/AI/__init__.py",
+		"/home/torto/.config/sublime-text-2/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/home/torto/.config/sublime-text-2/Packages/User/trailing_spaces.sublime-settings",
+		"/usr/local/lib/python2.7/dist-packages/PyBrain-0.3-py2.7.egg/pybrain/datasets/dataset.py",
+		"/usr/local/lib/python2.7/dist-packages/PyBrain-0.3-py2.7.egg/pybrain/datasets/supervised.py",
+		"/usr/local/lib/python2.7/dist-packages/PyBrain-0.3-py2.7.egg/pybrain/tools/shortcuts.py",
+		"/usr/local/lib/python2.7/dist-packages/PyBrain-0.3-py2.7.egg/pybrain/supervised/trainers/backprop.py",
+		"/usr/local/lib/python2.7/dist-packages/PyBrain-0.3-py2.7.egg/pybrain/structure/modules/module.py",
+		"/home/torto/projects/mariobot/Tools/__init__.py",
+		"/home/torto/projects/mariobot/Tools/Tools.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+			"ddddddddddd",
+			"ddddddddddddd",
+			"indddddddddddddddddddddddddfo",
+			"cv2pil",
+			"dddddddddddddddddddddd",
+			"cv2pil",
+			"MaxPx",
+			"[(",
+			")]\n",
+			")\n",
+			"diag",
+			"math",
+			"daddddddd",
+			"math",
+			"),\n",
+			"math",
+			"except",
+			"ddddddddd",
+			"except",
+			"bb\n            except",
+			"\n            ",
+			"old_ptsdddddddfor",
+			"\n            ",
+			")\n",
+			"ddddddddddddddd",
+			"ddddddddddddddddddddddddddddddddddd",
+			"show",
+			"dtdtdtdtdtdtdtdtdddtdtdtdtdtdtdtdtdtddtdtdtasdtdtdtdtdtdtdtasdtdtawdtdatdwdtdtdstddttdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtddself",
+			"ddddddddddddddddddd",
+			" (",
+			"dddddddddddd",
+			"mdddddddddxLoc",
+			"dddddddddddddddddddddddddddddd",
+			"mxLocdddddddddddddddddddddddddddddddd",
+			"dddddddddddddddddddddddddddddddddd",
+			"dddddddddddddddddddddddddddddddd",
+			"dd",
+			"dddddddddddd",
+			"dddddddddddddddddddd",
+			"dadddddddddddddddddddddddddd",
+			"seladadadadadadadadadadadadadadadadadadadadadadaddddddddddddddddddddddddddddddddddf",
+			"dddddddd",
+			"print",
+			"DADADADADADADADADDDDDDDDDDDDD",
+			"from pybrain.datasets import SupervisedDataSet\nfrom pybrain.supervised.trainers import BackpropTrainer\nfrom pybrain.tools.xml.networkwriter import NetworkWriter\nfrom pybrain.tools.xml.networkreader import NetworkReader\nfrom pybrain.structure import LinearLayer, SigmoidLayer, SoftmaxLayer,GaussianLayer\nfrom pybrain.structure import FeedForwardNetwork, RecurrentNetwork\nfrom pybrain.structure import FullConnection\nimport Image\nfrom Utils import crop_rect\nimport time\n\nimport cv2\nimport numpy\n\ndef pil2cv(pilframe):\n    open_cv_image = numpy.array(pilframe)\n    return open_cv_image[:, :, ::-1].copy()\n\ndef cv2pil(cvframe):\n    #cv2_im = cv2.cvtColor(cvframe,cv2.COLOR_BGR2RGB)\n    return Image.fromarray(cvframe)\n\nclass PlayerDetectionNet:\n\n        def input_image_size(self):\n            return (64,64)\n\n        def __init__(self):\n            self.template = cv2.imread(\"./train_sets/tmach/template.png\")\n            self.template = self.template - cv2.erode(self.template, None)\n\n        def detect_player(self,frame):\n            cvimg = pil2cv(frame)\n            cvimg = cvimg - cv2.erode(cvimg,None)\n\n            match = cv2.matchTemplate(cvimg,self.template,cv2.TM_CCOEFF_NORMED)\n            mn,mx,mnLoc,mxLoc = cv2.minMaxLoc(match)\n            print mx\n            MaxPx,MaxPy = mxLoc\n\n            trows,tcols = (32,32)\n            return [(MaxPx,MaxPy,tcols,trows)]\n\n        def find_player_template(self,diff):\n            cvim = cv2.cvtColor(pil2cv(diff), cv2.COLOR_BGR2GRAY)\n            cvim = cv2.adaptiveThreshold(cvim,128,1,1,ADADADADADA,2)\n\n            mn,mx,mnLoc,mxLoc = cv2.minMaxLoc(cvim)\n            print mn, mx\n            print mnLoc\n            print mxLoc\n\n            return mxLoc+(32,32)\n\n\n        def train_on_dataset(self, dataset, max_epochs = 12):\n            #trainer = BackpropTrainer(self.net, dataset=dataset, learningrate=0.01, momentum=0.04, verbose=True, weightdecay=0.01)\n            #trainer.trainUntilConvergence(maxEpochs=max_epochs, verbose=True)#, continueEpochs, validationProportion);\n            #error = trainer.train()\n\n            #NetworkWriter.writeToFile(self.net, (\"./network_%d.xml\")%(time.time()))\n            pass\n            return 0\n",
+			"DA",
+			"ddddddddddddddddddddddddddddddddddddddddddddddddddd",
+			"0dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+			"dddddddddddddddddddddddddddddddddd",
+			"round",
+			"mlog",
+			"log",
+			"np",
+			"self",
+			"net.addConnection(hth)",
+			"ai",
+			"input_size",
+			"	",
+			"    ",
+			"tabs",
+			"    ",
+			"#	",
+			"hex",
+			"show",
+			"300",
+			"print",
+			"sleep",
+			"time",
+			"asstring",
+			"all",
+			"//"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mlog",
+			"    ",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "include/TecplotData.h",
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/TecplotParser.h",
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "include/TecplotZone.h",
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "include/TecplotVar.h",
+					"settings":
+					{
+						"buffer_size": 502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "include/defines.h",
+					"settings":
+					{
+						"buffer_size": 215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "buils.sh",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/TecplotFile.h",
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}
