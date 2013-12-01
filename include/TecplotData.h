@@ -15,9 +15,16 @@ public:
 
 	TecplotData(string title);
 
-	TecplotVars vars() const {return vars_; }
-	TecplotZones zones() const {return zones_; }
-	string title() {return title_; }
+	TecplotVars vars() const ;
+	TecplotVar *var(string x);
+
+	strings var_names();
+	size_t var_count();
+
+	size_t var_size(string name);
+
+	TecplotZones zones() const;
+	string title() ;
 
 	void addVar(const TecplotVar & var);
 	void assignVars(const TecplotVars & vars);

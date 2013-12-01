@@ -52,7 +52,7 @@ double * TecplotVar::data(const TecplotZone & zone) const
 //====================================================================
 size_t TecplotVar::size() const
 {
-	return this->size_;
+	return this->data_.size();
 }
 
 //====================================================================

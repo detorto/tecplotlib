@@ -171,9 +171,10 @@ bool TecplotAsciiParser::getData(const string &line)
 {
 
 	strings vars;
-	split(line,vars);
+	split(line, vars);
 	if(vars.size() != this->var_pos.size())
 	{
+		DEBUG("Var size: " << vars.size() << " vars: " << var_pos.size());
 		DEBUG("Line is not datatype");
 		return true;
 	}

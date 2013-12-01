@@ -26,7 +26,10 @@ std::vector<std::string> &split(const std::string &s, std::vector<std::string> &
 	std::string item;
 	while (std::getline(ss, item, delim))
 	{
+		if (item == "")
+			continue;
 		elems.push_back(item);
+
 	}
 	return elems;
 }

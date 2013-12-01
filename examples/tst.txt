@@ -1,0 +1,3 @@
+TITLE="Distribution"
+VARIABLES = "X","A"
+T="ZONE 0", I=21, J=22, K=23, F=POINT
