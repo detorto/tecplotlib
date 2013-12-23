@@ -1,5 +1,6 @@
 #include "Utils.h"
 #include <sstream>
+
 // trim string from start
 std::string &ltrim(std::string &s)
 {
@@ -29,7 +30,6 @@ std::vector<std::string> &split(const std::string &s, std::vector<std::string> &
 		if (item == "")
 			continue;
 		elems.push_back(item);
-
 	}
 	return elems;
 }
@@ -97,4 +97,12 @@ params &get_params(std::string line, params &p, bool only_one_param)
 	}
 
 	return p;
+}
+
+double my_stod(const std::string &valueAsString) {
+    std::istringstream totalSString( valueAsString );
+    double valueAsDouble;
+    // maybe use some manipulators
+    totalSString >> valueAsDouble;
+    return valueAsDouble;
 }

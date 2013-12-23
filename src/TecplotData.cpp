@@ -20,6 +20,27 @@ TecplotZones TecplotData::zones() const
 	return zones_;
 }
 
+TecplotZone *TecplotData::zone(string x)
+{
+	return 0;
+}
+
+strings TecplotData::zone_names()
+{
+	strings ret;
+
+	for (auto v: this->zones_)
+	{
+		ret.push_back(v->name());
+	}
+	return ret;
+}
+
+size_t TecplotData::zone_count()
+{
+	return zones_.size();
+}
+
 string TecplotData::title()
 {
 	return title_;
@@ -43,7 +64,10 @@ void TecplotData::assignZones(const TecplotZones & zones)
 
 TecplotVar *TecplotData::var(string x)
 {
-	return vars_[x];
+	for (auto var : vars_)
+		if (var->name() == x)
+			return var;
+	return 0;
 }
 
 strings TecplotData::var_names()
@@ -52,7 +76,7 @@ strings TecplotData::var_names()
 
 	for (auto v: this->vars_)
 	{
-		ret.push_back(v.first);
+		ret.push_back(v->name());
 	}
 	return ret;
 }
@@ -65,5 +89,6 @@ size_t TecplotData::var_count()
 
 size_t TecplotData::var_size(string name)
 {
-	return this->vars_[name]->size();
+	return 0;
+	//return this->vars_[name]->size();
 }

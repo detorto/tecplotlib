@@ -14,6 +14,8 @@ class TecplotData
 public:
 
 	TecplotData(string title);
+	~TecplotData()
+	{DEBUG("Destroing data "<<title_);}
 
 	TecplotVars vars() const ;
 	TecplotVar *var(string x);
@@ -24,6 +26,11 @@ public:
 	size_t var_size(string name);
 
 	TecplotZones zones() const;
+	TecplotZone *zone(string x);
+
+	strings zone_names();
+	size_t zone_count();
+
 	string title() ;
 
 	void addVar(const TecplotVar & var);

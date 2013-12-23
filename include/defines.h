@@ -12,8 +12,8 @@
 class TecplotZone;
 class TecplotVar;
 
-typedef std::map <std::string, TecplotZone *> TecplotZones;
-typedef std::map <std::string, TecplotVar *>  TecplotVars;
+typedef std::vector < TecplotZone *> TecplotZones;
+typedef std::vector < TecplotVar *>  TecplotVars;
 
 typedef std::vector <std::string> strings;
 typedef std::map< std::string, std::string> params;

@@ -20,4 +20,5 @@ std::string &trim(std::string &s);
 strings &split(const std::string &s, strings &elems,  char delim = ' ');
 
 params &get_params(std::string line, params &p, bool only_one_param = false);
+double my_stod(const std::string &valueAsString);
 #endif

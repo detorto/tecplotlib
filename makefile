@@ -3,7 +3,7 @@ OUT = lib/libtecplotlib.so
 CC = gcc
 
 LDFLAGS += -shared
-CFLAGS=-c -Wall -fPIC -std=c++11
+CFLAGS=-c -Wall -fPIC -std=c++11 -lz
 
 
 ODIR = obj
@@ -18,6 +18,8 @@ _OBJS = TecplotVar.o \
 		TecplotParser.o \
 		TecplotData.o \
 		Utils.o \
+		MglTecplotDrawer.o \
+		gzstream.o \
 
 
 
